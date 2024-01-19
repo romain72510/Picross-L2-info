@@ -1,7 +1,7 @@
 # Projet-L2-info-PICROSS
 Projet réaliser par BODINEAU Romain , Mahjoub Aly Rida
 
-Ce projet est réalisé dans le cas de nos étude en L2 informatique Le Mans Université 2023-2024
+Ce projet est réalisé dans le cas de nos étude en L2 informatique a l'Université du Mans lors de l'année universitaire 2023-2024
 
 Notre projet s'intitule Picross.
 
