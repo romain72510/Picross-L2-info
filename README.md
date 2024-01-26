@@ -13,6 +13,9 @@ https://view.monday.com/1370831885-48831c7f5bfc48918c0a44ca2c580c70?r=euc1.
 Format PDF :
 [Gant _ Projet L2 info.pdf](https://github.com/romain72510/Picross-L2-info/files/13990811/Gant._.Projet.L2.info.pdf)
 
+lien document écrit :
+https://docs.google.com/document/d/1xzydjDlTS2t-yCnkyKGI4GK86b3eCiv3PtuvstMZb4E/edit?usp=sharing
+
 début du projet: 19/01/2024
 fin du projet: 18/04/2024
 
