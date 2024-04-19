@@ -9,6 +9,7 @@ Picross ou Peinture par numéros ou griddlers, sont jeux de réflexion logique g
 Lien diagramme de Gant prévisonelle au Format PDF :[Gant _ Projet L2 info (3).pdf](https://github.com/romain72510/Picross-L2-info/files/14065718/Gant._.Projet.L2.info.3.pdf)
 Lien diagramme de Gant sur le suivi du projet au format PDF :[Gantt_Finale_Projet_Picross (1).pdf](https://github.com/romain72510/Picross-L2-info/files/15040279/Gantt_Finale_Projet_Picross.1.pdf)
 
+Rapport de projet au format PDF: [Projet_L2 (3).pdf](https://github.com/romain72510/Picross-L2-info/files/15040746/Projet_L2.3.pdf)
 
 
 
