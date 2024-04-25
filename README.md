@@ -11,7 +11,8 @@ Lien diagramme de Gant sur le suivi du projet au format PDF :[Gantt_Finale_Proje
 
 Rapport de projet au format PDF: [Projet_L2 (3).pdf](https://github.com/romain72510/Picross-L2-info/files/15040746/Projet_L2.3.pdf)
 
-
+Lien demonstration vidéo du jeu avec SDL :
+https://youtu.be/ei8hj_me-6s
 
 lien document écrit :
 https://docs.google.com/document/d/1xzydjDlTS2t-yCnkyKGI4GK86b3eCiv3PtuvstMZb4E/edit?usp=sharing
